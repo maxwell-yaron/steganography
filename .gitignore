@@ -1,0 +1,8 @@
+*.orig
+*~
+*.pyc
+*.swp
+/build*
+/._tmp
+.cache
+core
